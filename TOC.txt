@@ -20,3 +20,16 @@ variable_scope
 global_variables
 constants
 data_types
+
+
+
+        <a class="nav-link" href="introduction">Introduction</a>
+        <a class="nav-link" href="what_you_should_already_know">What you should already know</a>
+        <a class="nav-link" href="javaScript_and_java">JavaScript and Java</a>
+        <a class="nav-link" href="hello_world">Hello World</a>
+        <a class="nav-link" href="variables">Variables</a>
+        <a class="nav-link" href="declaring_variables">Declaring Variables</a>
+        <a class="nav-link" href="variable_scope">Variable Scope</a>
+        <a class="nav-link" href="global_variables">Global Variables</a>
+        <a class="nav-link" href="constants">Constants</a>
+        <a class="nav-link" href="data_types">Data Types</a>
