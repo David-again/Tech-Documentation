@@ -1,0 +1,22 @@
+Introduction
+What you should already know
+JavaScript and Java 
+Hello World
+Variables
+Declaring Variables
+Variable Scope
+Global Variables
+Constants
+Data types
+
+
+introduction
+what_you_should_already_know
+javaScript_and_java
+hello_world
+variables
+declaring_variables
+variable_scope
+global_variables
+constants
+data_types
